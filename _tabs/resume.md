@@ -1,6 +1,6 @@
 ---
-layout: redirect
 icon: fas fa-handshake
 order: 3
-redirect: https://acrobat.adobe.com/id/urn:aaid:sc:us:24392306-47ab-4d2a-a81e-5f443d297f15
 ---
+
+## Resume Coming Soon ..
