@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Yellow Rat WriteUp"
-date: 2024-12-29 11:00:00 -500
+date: 2024-12-29 11:10:00 -0500
+categories: [writeups, malware]
+tags: [yellow-rat, cybersecurity, malware-analysis]
 ---
+
 
 # CyberDefender Yellow Rat WriteUp
 ## Easy Threat Intel
@@ -11,6 +14,7 @@ date: 2024-12-29 11:00:00 -500
 #### This lab has equipeed us with the skills to investigate malware behind abnormal network traffic at GlobalTech Industries 
 
 ![Title](https://i.imgur.com/F6tx9ip.png)
+
 <style>
   details {
     margin-bottom: 20px;
