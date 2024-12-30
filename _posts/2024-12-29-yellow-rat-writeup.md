@@ -40,8 +40,6 @@ From the picture below, we can conclude our answer along with using context clue
 
 </details>
 
-<br>
-
 <details>
 <summary> Q2: As part of our incident response, knowing common filenames the malware uses can help scan other workstations for potential infection. What is the common filename associated with the malware discovered on our workstations?</summary>
 
@@ -52,8 +50,6 @@ Using the keyword filename, we go on to look under the details panel and search 
 
 </details>
 
-<br>
-
 <details>
 <summary>Q3: Determining the compilation timestamp of malware can reveal insights into its development and deployment timeline. What is the compilation timestamp of the malware that infected our network?</summary>
 
@@ -61,16 +57,12 @@ Staying in the **Details** section, we navigate to the **History** subsection. W
 
 </details>
 
-<br>
-
 <details>
 <summary> Q4: Understanding when the broader cybersecurity community first identified the malware could help determine how long the malware might have been in the environment before detection. When was the malware first submitted to VirusTotal?</summary>
 
 Within the same section of the last question, we are in the Details > History section and we can look for the “First Submission” answer. Here we can see our answer being **2020-10-15 02:47:37 UTC**
 
 </details>
-
-<br>
 
 <details>
 <summary> Q5: To completely eradicate the threat from Industries' systems, we need to identify all components dropped by the malware. What is the name of the .dat file that the malware dropped in the AppData folder?</summary>
@@ -83,8 +75,6 @@ At this link, we are presented with the evidence of our answer through the Red C
 
 </details>
 
-<br>
-
 <details>
 <summary> Q6: It is crucial to identify the C2 servers with which the malware communicates to block its communication and prevent further data exfiltration. What is the C2 server that the malware is communicating with?</summary>
 
@@ -93,8 +83,6 @@ To find the C2 server, we look at the same Red Canary report. Within the report,
    ![answer](https://i.imgur.com/l4aNIuP.png)
 
 </details>
-
-<br>
 
 ### We have completed the second portion of the Starting Point on CyberDefenders!!
 ### Our next WriteUp will be 3/5 of the Starting Point, which will be GrabThePhisher.
