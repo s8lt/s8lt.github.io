@@ -2,8 +2,6 @@
 layout: post
 title: "Yellow Rat WriteUp"
 date: 2024-12-29 11:10:00 -0500
-categories: [writeups, malware]
-tags: [yellow-rat, cybersecurity, malware-analysis]
 ---
 
 
