@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yellow Rat WriteUp
-date: 2024-12-29 10:30:00 -0500
+date: 2024-12-29 10:30:00 -500
 ---
 
 # CyberDefender Yellow Rat WriteUp
