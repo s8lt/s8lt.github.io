@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yellow Rat WriteUp
+title: "Yellow Rat WriteUp"
 date: 2024-12-29 11:00:00 -500
 ---
 
