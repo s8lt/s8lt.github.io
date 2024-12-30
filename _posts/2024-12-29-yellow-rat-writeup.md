@@ -78,9 +78,9 @@ Staying in the <b> Details </b> section, we navigate to the <b> History </b> sub
 Q5: To completely eradicate the threat from Industries' systems, we need to identify all components dropped by the malware. What is the name of the .dat file that the malware dropped in the AppData folder?
 </summary>
 <br>
-To find the .dat file, we utilize the community tab at our advantage. We search for the report that cound contain the details of the malware that dropped in the AppData folder. We navigate to the following link 
+To find the .dat file, we utilize the community tab at our advantage. We search for the report that cound contain the details of the malware that dropped in the AppData folder. We navigate to the following link https://redcanary.com/blog/yellow-cockatoo/.
 
-<a href="url"></a> https://redcanary.com/blog/yellow-cockatoo/ . At this link, we are presented with the evidence of our answer through the Red Canary report. 
+ At this link, we are presented with the evidence of our answer through the Red Canary report. 
 
 ![answr](https://i.imgur.com/qFhja0a.png)
 </details>
