@@ -10,7 +10,7 @@ tags: writeup, threat intel
 ## Easy Threat Intel
 ### Tools: VirusTotal 
 
-#### This lab has equipeed us with the skills to investigate malware behind abnormal network traffic at GlobalTech Industries 
+#### This lab has equipped us with the skills to investigate malware behind abnormal network traffic at GlobalTech Industries 
 
 ![Title](https://i.imgur.com/F6tx9ip.png)
 
