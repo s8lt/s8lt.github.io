@@ -38,11 +38,9 @@ social:
   email: asani.aros@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://linkedin.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/aros-ontiveros-99a271216/
+    - https://www.linkedin.com/in/aros-ontiveros-99a271216/ 
+    - https://github.com/s8lt
+    
 
 # Site Verification Settings
 webmaster_verifications:
@@ -217,10 +215,9 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [tags]
   layouts:
-    category: category
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
+    
