@@ -7,7 +7,7 @@ tags: writeup, threat intel
 
 
 # CyberDefender Yellow Rat WriteUp
-## Easy Threat Intel
+## Easy Threat Intel ##
 ### Tools: VirusTotal 
 
 #### This lab has equipped us with the skills to investigate malware behind abnormal network traffic at GlobalTech Industries 
